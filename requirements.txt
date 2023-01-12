@@ -2,4 +2,4 @@ mlflow
 tensorflow
 notebook
 tqdm
-
+Pillow
